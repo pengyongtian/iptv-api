@@ -1,18 +1,16 @@
 🕘️更新时间,#genre#
-2026-08-23 18:16:24,http://173.208.212.130:8181/1080p/cctv3.m3u8
+2026-08-24 06:24:49,http://38.75.136.137:98/gslb/dsdqbv/cctv5p.m3u8?auth=test20251009
 
 📺央视频道,#genre#
-CCTV-3,http://173.208.212.130:8181/1080p/cctv3.m3u8
 CCTV-5,http://38.75.136.137:98/gslb/dsdqbv/cctv5p.m3u8?auth=test20251009
 CCTV-5,http://115.171.216.40:4000/rtp/225.1.8.20:8004
 CCTV-9,http://www.negative.top:50000/rtp/233.50.200.23:5140
 CCTV-10,https://hwapi.yntv.net/ew265l/z1z6s5.m3u8
-CCTV-10,http://112.30.73.119:229/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-14,http://198.204.228.26/live/cctv14hd.m3u8
 CCTV-15,http://www.negative.top:50000/rtp/233.50.200.133:5140
 CETV-1,http://198.204.228.26/live/cetv1hd.m3u8
-CETV-1,http://38.75.136.137:98/gslb/dsdqpub/cetv1hd.m3u8?auth=testpub
 CETV-1,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cetv1hd
+CETV-1,http://38.75.136.137:98/gslb/dsdqpub/cetv1hd.m3u8?auth=testpub
 
 💰央视付费频道,#genre#
 
